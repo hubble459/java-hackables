@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ticket to Ride Europe",
+    "canPlayedStandalone": true
+  },
+  {
+    "name": "Ticket to Ride Map Collection - Nederland",
+    "canPlayedStandalone": false
+  },
+  {
+    "name": "Ticket to Ride Map Collection - Asia",
+    "canPlayedStandalone": false
+  },
+]
